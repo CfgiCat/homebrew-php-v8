@@ -24,7 +24,7 @@ class V8 < Formula
     end
   end
 
-  no_autobump! because: :requires_manual_review
+  #no_autobump! because: :requires_manual_review
 
   bottle do
     rebuild 1
